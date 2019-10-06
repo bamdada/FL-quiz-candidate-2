@@ -1,3 +1,4 @@
 added Twitter API using the method found on the Twitter API website
 implemented a basic UI after discussion with Professor Jones regarding best practise
 updated the twitter API to v2.3.6 which includes bug fixes and some new features including the ability to batch download images
+added an about section which includes the current version and links to my website
