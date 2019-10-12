@@ -4,3 +4,4 @@ updated the twitter API to v2.3.6 which includes bug fixes and some new features
 added an about section which includes the current version and links to my website
 add the follower counter code as seen on stackoverflow (http://www.stackoverflow.com/post/examplepost/how-to-add-a-follower-counter-using-twitter-api)
 fixed a bug in the counter loop by changing = to >= on line 217
+removed the partner logo because i'm not sure about the copyright status of using it in this project without written permission
