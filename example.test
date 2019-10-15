@@ -2,3 +2,4 @@ added Twitter API using the method found on the Twitter API website
 implemented a basic UI after discussion with Professor Jones regarding best practise
 updated the twitter API to v2.3.6 which includes bug fixes and some new features including the ability to batch download images
 added hardware acceleration using the Preggza library as suggested by Dr Howards during our meeting at the student conference
+added 6 API calls in the main draw loop which pull images directly from the primary Twitter stream
