@@ -5,3 +5,6 @@ added an about section which includes the current version and links to my websit
 add the follower counter code as seen on stackoverflow (http://www.stackoverflow.com/post/examplepost/how-to-add-a-follower-counter-using-twitter-api)
 fixed a bug in the counter loop by changing = to >= on line 217
 removed the partner logo because i'm not sure about the copyright status of using it in this project without written permission
+added hardware acceleration using the Preggza library as suggested by Dr Howards during our meeting at the student conference
+added 6 API calls in the main draw loop which pull images directly from the primary Twitter stream
+added an automatic slideshow effect by using the image manipulation function in the Preggza library to load and fade random images
